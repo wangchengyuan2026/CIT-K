@@ -1,4 +1,4 @@
-> **理论溯源 / Lineage:** 本仓库是「猫智能论 / HIM」理论的早期完整实验实现与批判复算记录，是 **CIT-K 内核成品**（）的理论前身。CIT-K 以更纯净的单一标量舒适 + V/M 表格记忆路线（零网络、零新奇度算子）实现了同一理论，论文与可复现代码见 [citk 仓库](https://github.com/wangchengyuan2026/citk)。
+> **理论溯源 / Lineage:** 本仓库是「猫智能论 / HIM」理论的早期完整实验实现与批判复算记录，是 **CIT-K 内核成品**（`wangchengyuan2026/citk`）的理论前身。CIT-K 以更纯净的单一标量舒适 + V/M 表格记忆路线（零网络、零新奇度算子）实现了同一理论，论文与可复现代码见 [citk 仓库](https://github.com/wangchengyuan2026/citk)。
 
 # HIM-Theory —— 「猫智能论 / 内稳态内在动机」理论的可跑实验代码
 
