@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code or the HIM (Cat Intelligence) theory in your research, please cite the works listed below."
+title: "HIM-Theory: a reference implementation of Homeostatic Intrinsic Motivation (Cat Intelligence)"
+abstract: >-
+  Executable reference implementation, baselines and benchmark suite for
+  Homeostatic Intrinsic Motivation (HIM) / Cat Intelligence (CI): an autonomous-agent
+  architecture driven solely by an internal comfort scalar L and its increment dL,
+  with no external reward and no preset goal. Includes a literal transcription of the
+  paper's pseudocode (reported as him_v1), an ablation suite, and three baselines
+  (free-energy-principle active inference, tabular Q-learning with an external sparse
+  reward, and a uniform random walk). The repository also documents, item by item,
+  every point where the published text is ambiguous or where the reproduction was
+  found to deviate from the numbers reported in the papers.
+authors:
+  - family-names: Wang
+    given-names: Chengyuan
+    alias: "王程远"
+    affiliation: "Independent Researcher"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-23"
+keywords:
+  - intrinsic motivation
+  - homeostatic reinforcement learning
+  - free energy principle
+  - autonomous agent
+  - novelty driven exploration
+  - curiosity
+  - reinforcement learning
+preferred-citation:
+  type: article
+  title: "反思智能：存在自主动机的最简机器模型设计"
+  authors:
+    - family-names: Wang
+      given-names: Chengyuan
+  journal: "人工智能与机器人研究"
+  volume: 7
+  issue: 1
+  start: 1
+  end: 16
+  year: 2018
+  doi: "10.12677/airr.2018.71001"
